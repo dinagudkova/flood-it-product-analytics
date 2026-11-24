@@ -1,0 +1,4 @@
+variant,n,rate_%,control_%,diff_pp,ci_low_pp,ci_high_pp,p_value,p_holm
+1: ad_frequency 2,565,6.37,5.08,1.29,-1.42,4.05,0.35,1.0
+2: ad_frequency 8,569,5.62,5.08,0.54,-2.09,3.21,0.68,1.0
+3: ad_frequency 16,620,5.97,5.08,0.88,-1.75,3.5,0.5,1.0

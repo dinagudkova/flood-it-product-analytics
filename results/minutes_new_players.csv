@@ -1,0 +1,4 @@
+variant,median_min,control_median,median_diff_ci,mean_min,control_mean,mean_diff_ci,p_mann_whitney,p_holm
+1: ad_frequency 2,3.19,3.355,"[-1.10, 0.82]",15.828,17.01,"[-7.54, 4.22]",0.684,0.914
+2: ad_frequency 8,3.73,3.355,"[-0.57, 1.60]",18.387,17.01,"[-5.32, 6.92]",0.305,0.914
+3: ad_frequency 16,3.07,3.355,"[-1.16, 0.46]",17.714,17.01,"[-6.03, 6.53]",0.421,0.914

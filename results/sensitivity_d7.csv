@@ -1,0 +1,10 @@
+population,variant,n,rate_%,control_%,diff_pp,ci_low_pp,ci_high_pp,p_value,p_holm
+A. new players (primary),1: ad_frequency 2,565,6.372,5.085,1.287,-1.422,4.052,0.346,1.0
+A. new players (primary),2: ad_frequency 8,569,5.624,5.085,0.539,-2.094,3.208,0.683,1.0
+A. new players (primary),3: ad_frequency 16,620,5.968,5.085,0.883,-1.747,3.504,0.502,1.0
+B. all participants (ITT),1: ad_frequency 2,1127,5.501,5.092,0.409,-1.452,2.28,0.664,1.0
+B. all participants (ITT),2: ad_frequency 8,1133,5.296,5.092,0.203,-1.641,2.052,0.827,1.0
+B. all participants (ITT),3: ad_frequency 16,1195,5.105,5.092,0.012,-1.801,1.812,0.989,1.0
+C. per-protocol,1: ad_frequency 2,1005,5.373,5.428,-0.055,-2.091,1.963,0.957,1.0
+C. per-protocol,2: ad_frequency 8,954,5.031,5.428,-0.397,-2.423,1.625,0.697,1.0
+C. per-protocol,3: ad_frequency 16,1028,5.35,5.428,-0.078,-2.105,1.922,0.939,1.0
