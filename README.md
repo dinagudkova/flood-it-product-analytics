@@ -106,6 +106,14 @@ with day 7 inside the data (590 / 565 / 569 / 620 per variant), so day 0 means t
 3. **Work on early progression:** the largest drop-off and the strongest retention signal are both around
    completing 5 levels on day 1. Candidates for experiments: an easier first levels curve, more starting extra steps.
 
+### Follow-up documents
+
+- [docs/experiment_brief_followup.md](docs/experiment_brief_followup.md): design of a two-arm follow-up test
+  (more ads vs control) written before launch: hypothesis, metrics, D7 non-inferiority margin, sample size, duration
+  and decision rules.
+- [docs/tracking_plan.md](docs/tracking_plan.md): events and properties in the data today, the gaps that limited this
+  analysis (no ad impressions or revenue, no exposure event) and the proposed additions with a QA checklist.
+
 ## Limitations and assumptions
 
 - **The meaning of `ad_frequency` is not documented.** I assume it means "an ad every N levels or games", so a higher
@@ -126,6 +134,7 @@ data/         07_experiment_users.csv (one row per experiment participant)
 notebooks/    01_retention_and_funnel.ipynb, 02_ab_test_ad_frequency.ipynb
 figures/      charts used in this README
 results/      test results as CSV
+docs/         follow-up experiment brief and tracking plan
 ```
 
 ---
